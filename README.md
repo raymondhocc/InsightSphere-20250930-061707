@@ -1,6 +1,6 @@
 # InsightSphere: AI CRM Analytics Agent
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/InsightSphere-20250930-061707)
 
 InsightSphere is a sophisticated, AI-driven CRM analytics platform designed to provide real-time, data-driven insights through a minimalist and intuitive chat interface. Users can ask complex questions in natural language about customer behavior, sales funnels, and key performance indicators (KPIs). The AI agent interprets these queries, utilizes specialized data analysis tools to fetch and process information from a mock CRM database, and presents the findings as clear text summaries, interactive charts, and elegant KPI cards. The application is a single-page interface featuring a collapsible sidebar for managing conversation history and a main view dedicated to the interactive chat and dynamic data visualizations. The entire experience is designed to be visually stunning, highly responsive, and exceptionally user-friendly, transforming raw CRM data into actionable intelligence.
 
@@ -106,7 +106,7 @@ This project is designed for seamless deployment to Cloudflare's global network.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/InsightSphere-20250930-061707)
 
 ## Important Note on AI Capabilities
 
